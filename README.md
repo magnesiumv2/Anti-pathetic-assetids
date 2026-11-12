@@ -26,8 +26,8 @@ local timer = 25
 local kickMessage = "You failed to remove the prohibited clothing before the timer ended. Try again."
 
 local prohibitedIds = {
-	123456789,
-	987654321,
+	NumberHere,
+	NumberHere,
 }
 ```
 
@@ -42,4 +42,4 @@ local prohibitedIds = {
 
 ## Como Contribuir
 
-Encontrou um ID de roupa inapropriada que ainda não está na lista? Abra uma **Issue** ou envie um **Pull Request** informando apenas o número do ID para mantermos a comunidade segura.
+Encontrou um ID de roupa inapropriada que ainda não está na lista? Abra uma **Issue** ou envie um **Pull Request** informando apenas o número do ID para mantermos a comunidade segura. e substitua os dois ##NumberHere## pelos ids das roupas inapropriadas.
