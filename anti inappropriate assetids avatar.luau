@@ -4,8 +4,8 @@ local timer = 25
 local kickMessage = "You failed to remove the prohibited clothing before the timer ended. Try again."
 
 local prohibitedIds = {
-	123456789,
-	987654321,
+	NumberHere,
+	NumberHere,
 }
 
 local warnedPlayers = {}
